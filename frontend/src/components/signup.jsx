@@ -151,7 +151,7 @@ export default function SignUpp() {
             required
           />
         </div>
-
+//*
         <div className="form-group">
           <label>Password</label>
           <input
